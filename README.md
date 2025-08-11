@@ -127,4 +127,5 @@ Focusing on building **scalable, multi-tenant applications**, integrating comple
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/manish404/manish404/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://raw.githubusercontent.com/manish404/manish404/output/snake.svg" alt="Snake animation" />
